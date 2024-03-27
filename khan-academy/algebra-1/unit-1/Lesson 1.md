@@ -11,3 +11,6 @@ For example, we tend to abstract the idea of a cube into a 3-dimensional object 
 Abstract art often does not represent a clear image of something perceivable. Jackson Pollock's art intends to capture an emotion, a thought.
 
 Anything that invokes the thought or idea of something can be an abstraction. The number 5 is the symbol used to represent a quantity. The same concept of quantity can be expressed through many other abstractions: roman numerals, tallies, words, and expressions.
+
+# The Beauty of Algebra
+The entire purpose of Algebra is the ability to abstract problems into expressions and equations that can apply to different solutions and information. Variables allow for pieces of information to be represented in simplest terms, without having to concern ourselves with the true value or numbers involved. The manipulation of abstracted values leads to equalities in solutions.
