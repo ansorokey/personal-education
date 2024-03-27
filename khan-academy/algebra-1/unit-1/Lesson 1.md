@@ -14,3 +14,6 @@ Anything that invokes the thought or idea of something can be an abstraction. Th
 
 # The Beauty of Algebra
 The entire purpose of Algebra is the ability to abstract problems into expressions and equations that can apply to different solutions and information. Variables allow for pieces of information to be represented in simplest terms, without having to concern ourselves with the true value or numbers involved. The manipulation of abstracted values leads to equalities in solutions.
+
+# Creativity break: Why is creativity important in algebra?
+Algebra is not concerned with the memorization of problem solving, but rather the in-depth understanding of the tools available to deconstruct a problem into an answer. Understanding these tools lead to the ability to solve any variety of problem.

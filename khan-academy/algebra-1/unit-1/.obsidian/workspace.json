@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfeaf45ae260df7f",
+  "active": "147f1823d036c379",
   "lastOpenFiles": [
     "02. abstract-ness.md",
     "Lesson 1.md"
