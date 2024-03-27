@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87ebe591362eaef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. abstract-ness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. algebra-foundations.md",
+                "file": "02. abstract-ness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. algebra-foundations.md",
+                "file": "02. abstract-ness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. algebra-foundations.md"
+                "file": "02. abstract-ness.md"
               }
             }
           }
@@ -146,6 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfeaf45ae260df7f",
-  "lastOpenFiles": []
+  "active": "87ebe591362eaef3",
+  "lastOpenFiles": [
+    "01. algebra-foundations.md",
+    "02. abstract-ness.md"
+  ]
 }
