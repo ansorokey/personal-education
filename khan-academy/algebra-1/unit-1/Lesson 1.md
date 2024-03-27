@@ -20,3 +20,6 @@ Algebra is not concerned with the memorization of problem solving, but rather th
 
 # Introduction to the Coordinate Plane
 Rene Descartes was a philosopher famous for his line "I think; therefore I am". He is also one of the most prominent people responsible for the meshing of algebra and geometry, visualizing the relationships between variables and equations. The use of x and y in grids was his direct contribution. since most Algebraic equations are in the format `y = func(x)`, he decided that x was the independent variable, and y was the dependent variable. dependent, meaning that the outcome of y depends on what the input of x is. Coordinates on the Cartesian grid `(x,y)` on the grid form a line where any point on the line is also a solution to an algebraic equation. When x is __, y is __.
+
+# Why all the letters in algebra?
+The reason letters are used in algebra is to represent any value. The letter - a variable - is an unknown. The same unknown could be represented by a blank space, a question mark, an emoji, anything.

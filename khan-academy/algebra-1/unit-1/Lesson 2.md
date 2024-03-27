@@ -1,0 +1,2 @@
+# What is a variable?
+A variable is a stand-in for any input that can change or differ in value. In algebra, a variable is typically written as a single letter. When evaluating an expression, a variable is replaced with whatever value we are using.
