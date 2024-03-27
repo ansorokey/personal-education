@@ -17,3 +17,6 @@ The entire purpose of Algebra is the ability to abstract problems into expressio
 
 # Creativity break: Why is creativity important in algebra?
 Algebra is not concerned with the memorization of problem solving, but rather the in-depth understanding of the tools available to deconstruct a problem into an answer. Understanding these tools lead to the ability to solve any variety of problem.
+
+# Introduction to the Coordinate Plane
+Rene Descartes was a philosopher famous for his line "I think; therefore I am". He is also one of the most prominent people responsible for the meshing of algebra and geometry, visualizing the relationships between variables and equations. The use of x and y in grids was his direct contribution. since most Algebraic equations are in the format `y = func(x)`, he decided that x was the independent variable, and y was the dependent variable. dependent, meaning that the outcome of y depends on what the input of x is. Coordinates on the Cartesian grid `(x,y)` on the grid form a line where any point on the line is also a solution to an algebraic equation. When x is __, y is __.
