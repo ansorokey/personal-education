@@ -7,7 +7,7 @@ Very simply, the letter x is one of the most used variables. It looks too simila
 # Creativity break: Why is creativity important in STEM jobs?
 Problem solving requires looking from many different approaches.
 
-# How to evaluate an expression with variables
+# Evaluating an expression with one variable
 *Evaluating an expression* means we have a series of terms and operations, but no value to equate it to. An expression represents a single value in unsolved terms. When evaluation expressions, simply replace variables with the given value and reduce in PEMDAS order.
 Remember: when performing PEMDAS (Parentheses, Exponent, Multiplication/Division, Addition/Subtraction) operations of the same hierarchy are solved in left to right order.
 10 - (8 + 2) is not the same as (10 - 8) + 2. Order matters.
